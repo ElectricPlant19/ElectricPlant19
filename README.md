@@ -19,7 +19,9 @@
 - **Complete Python Bootcamp: Jose Portilla** - [View Certificate](https://www.udemy.com/certificate/UC-ac8112e3-1c65-471e-9b2d-5aed0e87b554/)
   
 
+## 🏆 My Digital Badges
 
+Check out my digital badges from Holopin below:
 
 - [![An image of @electricplant19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electricplant19)](https://holopin.io/@electricplant19)
 
