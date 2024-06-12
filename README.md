@@ -18,7 +18,7 @@
 - 🏅 **CS50x: Introduction to Computer Science** - [View Certificate](https://certificates.cs50.io/9a6c1059-9c06-4916-b7e8-be311e9c2129.pdf?size=letter)
 - **Complete Python Bootcamp: Jose Portilla** - [View Certificate](https://www.udemy.com/certificate/UC-ac8112e3-1c65-471e-9b2d-5aed0e87b554/)
   
-  ![CS50x Certificate](https://example.com/path-to-your-certificate-image.png)
+
 
 
 - [![An image of @electricplant19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electricplant19)](https://holopin.io/@electricplant19)
