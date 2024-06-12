@@ -1,8 +1,16 @@
 - 👋 Hi, I’m Aditya,
-- 👀 I’m interested in ... MERN Stack and c programming 
-- 🌱 I’m currently learning ...Web Devolopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  adityajjw19@gmail.com
+ 
+- 🌱 I’m currently learning ...
+- 
+### 🌱 What I’m Currently Learning
+- 🌐 Backend Web Development with MERN Stack
+  - **M**ongoDB
+  - **E**xpress.js
+  - **R**eact
+  - **N**ode.js
+  - 
+- 📫 How to reach me ...  a
+  - adityajjw19@gmail.com
 
 - [![An image of @electricplant19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electricplant19)](https://holopin.io/@electricplant19)
 
