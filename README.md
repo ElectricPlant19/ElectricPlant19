@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Aditya,
  
-- 🌱 I’m currently learning ...
-- 
+  
 ### 🌱 What I’m Currently Learning
 - 🌐 Backend Web Development with MERN Stack
   - **M**ongoDB
   - **E**xpress.js
   - **R**eact
   - **N**ode.js
-  - 
+  
 - 📫 How to reach me ...  a
   - adityajjw19@gmail.com
 
