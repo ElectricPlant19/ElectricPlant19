@@ -4,7 +4,7 @@
 ### 🌱 What I’m Currently Learning
 - 🌐 Machine Learning
   - **P**ython
-  - **S**ikit Learn
+  - **S**cikit Learn
   - **P**andas
   - **N**umpy
   
