@@ -2,11 +2,11 @@
  
   
 ### 🌱 What I’m Currently Learning
-- 🌐 Backend Web Development with MERN Stack
-  - **M**ongoDB
-  - **E**xpress.js
-  - **R**eact
-  - **N**ode.js
+- 🌐 Machine Learning
+  - **P**ython
+  - **S**ikit Learn
+  - **P**andas
+  - **N**umpy
   
 - 📫 How to reach me ...  
   - adityajjw19@gmail.com
